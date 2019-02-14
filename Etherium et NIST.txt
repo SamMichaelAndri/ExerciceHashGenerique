@@ -1,0 +1,1 @@
+Le SHA Etherium, nommé aussi Ethash diffère du SHA-3 NIST, qui a été sorti en 2015 par l’organisation NIST (National Institute of Standards and Technology) en vue de remplacer la SHA-1 et SHA-2, en augmentant la taille du cache et la taille du jeu de données afin de réduire le risque de régularité accidentelle.
